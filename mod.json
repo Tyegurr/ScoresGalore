@@ -11,6 +11,7 @@
 	"version": "v1.0.0",
 	"developer": "Tyegurr",
 	"description": "Adds a combo system to the game (more soon)",
+	"tags": ["joke", "interface"],
 	"dependencies": {
 		"geode.node-ids": ">=1.21.0"
 	},
